@@ -34,7 +34,7 @@ export const AddCategory = ({setCategories}) => {
           type = "Text"
           value = {inputValue}
           onChange = {handleInputChange}
-          placeholder=' Search GIFs .....'
+          placeholder=' Search GIFs......'
         />
 
     </form>
